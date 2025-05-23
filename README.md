@@ -15,10 +15,6 @@ This is a simple and responsive **Random Password Generator** built using **HTML
 - CSS
 - JavaScript
 
-## 📸 Preview
-
-![Password Generator Screenshot](screenshot.png) <!-- Optional: Add a screenshot if available -->
-
 ## 📂 Project Structure
 
 password-generator/
